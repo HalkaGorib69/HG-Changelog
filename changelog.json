@@ -1,0 +1,25 @@
+{
+    "logs": [
+        {
+            "_type": "REMOVE",
+            "typeColor": "#77deb9",
+            "symbol": "+",
+            "title": "VOTING SCRIPT",
+            "description": "A new voting script has been added to the server"
+        },
+        {
+            "_type": "CHANGED",
+            "typeColor": "orange",
+            "symbol": "/",
+            "title": "HUD DESIGN",
+            "description": "The HUD has been redesigned and now looks better than ever"
+        },
+        {
+            "_type": "REMOVED",
+            "typeColor": "rgb(255, 71, 71)",
+            "symbol": "-",
+            "title": "NOSHU SCRIPT",
+            "description": "The noshu script has been removed from the server"
+        }
+    ]
+}
