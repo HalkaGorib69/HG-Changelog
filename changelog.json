@@ -1,25 +1,32 @@
 {
     "logs": [
         {
-            "_type": "REMOVE",
-            "typeColor": "#77deb9",
-            "symbol": "+",
-            "title": "VOTING SCRIPT",
-            "description": "A new voting script has been added to the server"
-        },
-        {
-            "_type": "CHANGED",
+            "_type": "Updated",
             "typeColor": "orange",
             "symbol": "/",
-            "title": "HUD DESIGN",
-            "description": "The HUD has been redesigned and now looks better than ever"
+            "content": [
+                { "symbol": "-", "text": "Nissan Skyline" },
+                { "symbol": "-", "text": "Lamborghini Huracan" },
+                { "symbol": "-", "text": "Lamborghini Huracan Spyder" }
+            ]
         },
         {
-            "_type": "REMOVED",
+            "_type": "Added",
+            "typeColor": "#77deb9",
+            "symbol": "+",
+            "content": [
+                { "symbol": "-", "text": "Mercedes G-Wagon, Widebody & Brabus Edition" },
+                { "symbol": "-", "text": "Mercedes AMG GT-R, Black & Roadster Edition" }
+            ]
+        },
+        {
+            "_type": "Removed",
             "typeColor": "rgb(255, 71, 71)",
             "symbol": "-",
-            "title": "NOSHU SCRIPT",
-            "description": "The noshu script has been removed from the server"
+            "content": [
+                { "symbol": "-", "text": "Mercedes G-Wagon" },
+                { "symbol": "-", "text": "Mercedes AMG GT-R" }
+            ]
         }
     ]
 }
