@@ -5,9 +5,8 @@
             "typeColor": "orange",
             "symbol": "/",
             "content": [
-                { "symbol": "-", "text": "Nissan Skyline" },
-                { "symbol": "-", "text": "Lamborghini Huracan" },
-                { "symbol": "-", "text": "Lamborghini Huracan Spyder" }
+                { "symbol": "-", "text": "Phone Upload issue fixed" },
+                { "symbol": "-", "text": "Phone garage issue fixed" }
             ]
         },
         {
@@ -15,8 +14,7 @@
             "typeColor": "#77deb9",
             "symbol": "+",
             "content": [
-                { "symbol": "-", "text": "Mercedes G-Wagon, Widebody & Brabus Edition" },
-                { "symbol": "-", "text": "Mercedes AMG GT-R, Black & Roadster Edition" }
+                { "symbol": "-", "text": "PlaceHold" }
             ]
         },
         {
@@ -24,8 +22,7 @@
             "typeColor": "rgb(255, 71, 71)",
             "symbol": "-",
             "content": [
-                { "symbol": "-", "text": "Mercedes G-Wagon" },
-                { "symbol": "-", "text": "Mercedes AMG GT-R" }
+                { "symbol": "-", "text": "PlaceHold" }
             ]
         }
     ]
