@@ -5,8 +5,8 @@
             "typeColor": "orange",
             "symbol": "/",
             "content": [
-                { "symbol": "-", "text": "Phone Upload issue fixed" },
-                { "symbol": "-", "text": "Phone garage issue fixed" }
+                { "symbol": "-", "text": "ElectricJob payment issue fixed" },
+                { "symbol": "-", "text": "Oxy added as consumable" }
             ]
         },
         {
@@ -22,7 +22,7 @@
             "typeColor": "rgb(255, 71, 71)",
             "symbol": "-",
             "content": [
-                { "symbol": "-", "text": "PlaceHold" }
+                { "symbol": "-", "text": "Valorant/TDM Map removed Temp" }
             ]
         }
     ]
