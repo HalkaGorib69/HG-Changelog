@@ -5,8 +5,12 @@
             "typeColor": "orange",
             "symbol": "/",
             "content": [
+                { "symbol": "-", "text": "Inventory use while dead is fixed" },
+                { "symbol": "-", "text": "Mechanic item crafting is updated" },
                 { "symbol": "-", "text": "ElectricJob payment issue fixed" },
-                { "symbol": "-", "text": "Oxy added as consumable" }
+                { "symbol": "-", "text": "Oxy added as consumable itemd" },
+                { "symbol": "-", "text": "Crafting Issue fixed" },
+                { "symbol": "-", "text": "Gang Presents On/Off issue fixed" }
             ]
         },
         {
@@ -22,7 +26,10 @@
             "typeColor": "rgb(255, 71, 71)",
             "symbol": "-",
             "content": [
-                { "symbol": "-", "text": "Valorant/TDM Map removed Temp" }
+                { "symbol": "-", "text": "Valorant/TDM Map removed Temp" },
+                { "symbol": "-", "text": "Food decay removed" },
+                { "symbol": "-", "text": "Fuel Stations owners removed for now & fuel is globally available now" },
+                { "symbol": "-", "text": "Government salary introduced in Companies instead of manual Salary" }
             ]
         }
     ]
