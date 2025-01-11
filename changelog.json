@@ -22,7 +22,7 @@
             "typeColor": "#77deb9",
             "symbol": "+",
             "content": [
-                { "symbol": "-", "text": "PlaceHold" }
+                { "symbol": "-", "text": "Added New Vehicle Control" }
             ]
         },
         {
@@ -33,7 +33,8 @@
                 { "symbol": "-", "text": "Valorant/TDM Map removed Temp" },
                 { "symbol": "-", "text": "Food decay removed" },
                 { "symbol": "-", "text": "Fuel Stations owners removed for now & fuel is globally available now" },
-                { "symbol": "-", "text": "Government salary introduced in Companies instead of manual Salary" }
+                { "symbol": "-", "text": "Government salary introduced in Companies instead of manual Salary" },
+                { "symbol": "-", "text": "Removed Old Vehicle Control" }
             ]
         }
     ]
