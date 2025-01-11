@@ -14,7 +14,9 @@
                 { "symbol": "-", "text": "Ziptie Escorting Fixed" },
                 { "symbol": "-", "text": "Electrician Lift Error Fixed" },
                 { "symbol": "-", "text": "Mechanic Crafting Items Updates" },
-                { "symbol": "-", "text": "Mechanic Store Item Updated" }
+                { "symbol": "-", "text": "Mechanic Store Item Updated" },
+                { "symbol": "-", "text": "Mechanic Billing Updated" },
+                { "symbol": "-", "text": "Phone Updated" }
             ]
         },
         {
@@ -22,7 +24,8 @@
             "typeColor": "#77deb9",
             "symbol": "+",
             "content": [
-                { "symbol": "-", "text": "Added New Vehicle Control" }
+                { "symbol": "-", "text": "Added New Vehicle Control" },
+                { "symbol": "-", "text": "Mechanic Items Job Lock Added" }
             ]
         },
         {
