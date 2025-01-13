@@ -6,6 +6,7 @@
             "symbol": "/",
             "content": [
                 { "symbol": "-", "text": "Vehicle Menu updated and Plat issue fixed" },
+                 { "symbol": "-", "text": "Cardealer system updated." },
                 { "symbol": "-", "text": "CocaPlant location slightly changed down the hill with new plant" }
             ]
         },
