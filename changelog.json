@@ -5,9 +5,14 @@
             "typeColor": "orange",
             "symbol": "/",
             "content": [
-                { "symbol": "-", "text": "Vehicle Menu updated and Plat issue fixed" },
-                 { "symbol": "-", "text": "Cardealer system updated." },
-                { "symbol": "-", "text": "CocaPlant location slightly changed down the hill with new plant" }
+                { "symbol": "-", "text": "DutyTime Counter updated for all jobs." },
+                { "symbol": "-", "text": "Department's Insider Discord Status updated." },
+                { "symbol": "-", "text": "Veh Repair perms added for Reporter." },
+                { "symbol": "-", "text": "Gang Turf bossmenu prop fixed." },
+                { "symbol": "-", "text": "Reporter stash added." },
+                { "symbol": "-", "text": "Police GSR fixed." },
+                { "symbol": "-", "text": "Police Fine to Boss Menu fixed." },
+                { "symbol": "-", "text": "Better error detection system added. (Admins)" }
             ]
         },
         {
@@ -15,7 +20,8 @@
             "typeColor": "#77deb9",
             "symbol": "+",
             "content": [
-                { "symbol": "-", "text": "PlaceHold" }
+                { "symbol": "-", "text": "Blackmoney personal storage added for Gangs." },
+                { "symbol": "-", "text": "ScrapYard new script updated. There are total 3 different locations City + Sandy." }
             ]
         },
         {
@@ -23,7 +29,7 @@
             "typeColor": "rgb(255, 71, 71)",
             "symbol": "-",
             "content": [
-                { "symbol": "-", "text": "PlaceHold" }
+                { "symbol": "-", "text": "Sandy Buildings have been permanently removed." }
             ]
         }
     ]
